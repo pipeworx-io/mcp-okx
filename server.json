@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/okx",
   "title": "Okx",
   "description": "OKX v5 public MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/okx",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-okx",
