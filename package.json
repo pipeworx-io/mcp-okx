@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-okx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "OKX v5 public MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "okx",
     "gatewaySlug": "okx",
-    "sourceHash": "v1-ac791400c961d5595abb4f445997fb1fb702136a5c9bd98b5cba998e96dae6ed",
-    "sourceCommit": "b2c4383545bb35171d0ada2beb1c9c7168ea175e"
+    "sourceHash": "v1-3c2b524effe4f21452830a03ff1b69d2cc6d5ec862ce87a50feb021cd5568cba",
+    "sourceCommit": "bed7faa04e7276899b5e3870ef11c98625371f2b"
   }
 }
